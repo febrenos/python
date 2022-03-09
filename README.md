@@ -3,7 +3,7 @@ Language for data Science
 
 
 ```python
-''' armazena a resposta do usuario'''
+#armazena a resposta do usuario
 test = input("seu texto? ")
 '''print variable'''
 print(test)
