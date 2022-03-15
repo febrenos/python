@@ -1,6 +1,16 @@
 # python
 Language for data Science
 
+```python
+# ask1 = input("Write 1 value:")
+# num1 = int(valor)
+
+num1 = input("Write 1 value:")
+num2 = input("Write 2 value:")
+num3 = input("Write 3 value:")
+num4 = input("Write 4 value:")
+print(int (num1) + int (num2) + int (num3) + int (num4))
+```
 
 ```python
 #armazena a resposta do usuario
