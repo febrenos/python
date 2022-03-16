@@ -6,8 +6,8 @@ Language for data Science
 # num1 = int(valor)
 # ask2 = input("Write 1 value:")
 # num2 = int(valor)
-plus = num1 + num2
-print(plus)
+#plus = num1 + num2
+#print(plus)
 
 num1 = input("Write 1 value:")
 num2 = input("Write 2 value:")
