@@ -1,5 +1,6 @@
 # python
 Language for data Science
+- add extention Python VScode
 
 ```python
 # ask = input("Write 1 value:")
@@ -33,4 +34,8 @@ arquivo.close()
 #C:\Users\logonrmlocal
 #quit() sair do cmd
 #c:/python39/python ./questionario.py
+
+# dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+# dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+# wsl --set-default-version 2
 ```
