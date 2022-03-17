@@ -3,6 +3,11 @@ Language for data Science
 
 #### Code
 - add extention Python VScode
+```python
+#C:\Users\logonrmlocal
+#quit() sair do cmd
+#c:/python39/python ./questionario.py
+```
 
 ```python
 # ask = input("Write 1 value:")
@@ -32,10 +37,6 @@ arquivo = open("questionario.dat", mode='w')
 arquivo.write(test + "\n")
 #close for save
 arquivo.close()
-
-#C:\Users\logonrmlocal
-#quit() sair do cmd
-#c:/python39/python ./questionario.py
 
 # dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 # dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
