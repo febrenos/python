@@ -9,6 +9,16 @@ Language for data Science
 #c:/python39/python ./questionario.py
 ```
 
+| Operator | Character |
+| add | e |
+| subtraction | e |
+| multiplication | e |
+| real division | e |
+| rest division | e |
+| integer division | e |
+| potency | e |
+
+
 ```python
 # ask = input("Write 1 value:")
 # num1 = int(valor)
