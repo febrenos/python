@@ -4,20 +4,31 @@ Language for data Science
 #### Code
 - add extention Python VScode
 ```python
+run code
 #C:\Users\logonrmlocal
+#c:/python39/python ./nomeExemplo.py
 #quit() sair do cmd
-#c:/python39/python ./questionario.py
 ```
-
+#### Logical Operators
 | Operator | Character |
-| add | e |
-| subtraction | e |
-| multiplication | e |
-| real division | e |
-| rest division | e |
-| integer division | e |
-| potency | e |
+| --- | --- |
+| add | + |
+| subtraction | - |
+| multiplication | * |
+| real division | / |
+| rest division | % |
+| integer division | // |
+| potency | ** |
 
+#### Conditional Operators
+| Operator | Character |
+| --- | --- |
+| igual | == |
+| menor | < |
+| maior | > |
+| diferente | != |
+| menor ou igual | <= |
+| maior ou igual | >= |
 
 ```python
 # ask = input("Write 1 value:")
