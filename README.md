@@ -5,6 +5,7 @@ sen(cos((π))
 
 
 #### Code
+- intall Python
 - add extention Python VScode
 ```python
 run code
