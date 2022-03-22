@@ -1,5 +1,8 @@
 # python
 Language for data Science
+https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html
+sen(cos((π))
+
 
 #### Code
 - add extention Python VScode
@@ -63,4 +66,4 @@ arquivo.close()
 # dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 # wsl --set-default-version 2
 ```
-https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html
+
