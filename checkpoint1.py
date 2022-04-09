@@ -15,7 +15,7 @@ elif t > 11:
     print("t > 11 months")
     print(y+m, "+", "{: .1f}".format(t), "=", "{: .1f}".format(y+m+t), "year(s)")
 
-#2
+# 2
 print("\nENERGY CONSUMPTION")
 spent = int(input("Energy spent(kWh): "))
 pay = 14
