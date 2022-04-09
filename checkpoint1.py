@@ -32,7 +32,7 @@ elif spent > 200:
     print("finalvalue: ", pay)
 
 # 3
-print("\n WATER CHARGE")
+print("\nWATER CHARGE")
 wc = float(input("Water consumption: "))
 lastconsumptionmonth = int(input("consumptionmonth: "))
 finalvalue = float(0)
