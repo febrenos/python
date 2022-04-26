@@ -72,16 +72,16 @@ arquivo.close()
   ABC.DEF.GHI-JK
   
   ##### calc J
-  10.A + 9.B + 8.C + 7.D + 6.E + 5.F + 4.G + 3.H + 2.I
-  rest % 11
-  (j = 0)rest < 2
-  (j = rest - 11)rest >= 2
+  - 10.A + 9.B + 8.C + 7.D + 6.E + 5.F + 4.G + 3.H + 2.I
+  - rest % 11
+  - (j = 0)rest < 2
+  - (j = rest - 11)rest >= 2
   
   ##### calc K
-  11.A + 10.B + 9.C + 8.D + 7.E + 6.F + 5.G + 4.H + 3.I + 2.J
-  rest % 11
-  (j = 0)rest < 2
-  (j = rest - 11)rest >= 2
+  - 11.A + 10.B + 9.C + 8.D + 7.E + 6.F + 5.G + 4.H + 3.I + 2.J
+  - rest % 11
+  - (j = 0)rest < 2
+  - (j = rest - 11)rest >= 2
   
   
 - algoritimo modulo 10(boleto)
