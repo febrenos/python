@@ -34,6 +34,13 @@ run code
 | menor ou igual | <= |
 | maior ou igual | >= |
 
+#### Fibonacci sequence
+f1 = 1
+f2 = 1
+f3 = f2 + f1
+f4 = f3 + f2
+...
+
 ```python
 # ask = input("Write 1 value:")
 # num1 = int(valor)
