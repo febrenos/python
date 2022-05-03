@@ -35,11 +35,11 @@ run code
 | maior ou igual | >= |
 
 #### Fibonacci sequence
-f1 = 1
-f2 = 1
-f3 = f2 + f1
-f4 = f3 + f2
-...
+f1 = 1</br>
+f2 = 1</br>
+f3 = f2 + f1</br>
+f4 = f3 + f2</br>
+...</br>
 
 ```python
 # ask = input("Write 1 value:")
