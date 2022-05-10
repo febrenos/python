@@ -1,4 +1,4 @@
-# 1
+#1
 print("\nYEARS AND MONTHS (INT)")
 y = int(input("Years: "))
 m = float(input("Months: "))
@@ -15,7 +15,7 @@ elif t > 11:
     print("t > 11 months")
     print(y+m, "+", "{: .1f}".format(t), "=", "{: .1f}".format(y+m+t), "year(s)")
 
-# 2
+#2
 print("\nENERGY CONSUMPTION")
 spent = int(input("Energy spent(kWh): "))
 pay = 14
@@ -31,34 +31,32 @@ elif spent > 200:
     pay = (pay + (spent-50)*0.25)*0.33
     print("finalvalue: ", pay)
 
-# 3
+#3
 print("\nWATER CHARGE")
 wc = float(input("Water consumption: "))
-lastconsumptionmonth = int(input("consumptionmonth: "))
+lastconsumptionmonth = int(input("last consumption month: "))
 finalvalue = float(0)
+finalvalue = wc + finalvalue
+if wc < 21:
+    finalvalue = finalvalue*2
+    print("final value: 2 RS")
 
-
-if wc >= 21 and wc <= 35:
-    finalvalue = finalvalue + 2
+elif wc >= 21 and wc <= 35:
+    finalvalue = finalvalue*3.50
     print("finalvalue: ", finalvalue, "RS")
 
 elif wc >= 36 and wc <= 50:
-    finalvalue = finalvalue + 3.50
-    print("finalvalue: ", finalvalue, "RS")
-
-elif wc >= 36 and wc <= 50:
-    finalvalue = finalvalue + 5.50
+    finalvalue = finalvalue*5.50
     print("finalvalue: ", finalvalue, "RS")
 
 elif wc >= 51:
-    finalvalue = finalvalue + 7.00
+    finalvalue = finalvalue*7.00
     print("finalvalue: ", finalvalue, "RS")
 
-elif wc < lastconsumptionmonth:
-    finalvalue-finalvalue*0.3
-    finalvalue*0.2
+if wc < lastconsumptionmonth:
+    finalvalue = finalvalue - finalvalue*0.2
     print("finalvalue: ", finalvalue, "RS")
 
-elif wc+wc*0.10 < lastconsumptionmonth:
-    finalvalue+finalvalue*0.3
+if wc+lastconsumptionmonth*0.10 > lastconsumptionmonth:
+    finalvalue = finalvalue + finalvalue*0.3
     print("finalvalue: ", finalvalue, "RS")
