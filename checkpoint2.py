@@ -62,7 +62,7 @@ if money % coin1 != 0 and money % coin2 == 0 and coin1 > coin2:
     print(f"\nFirst coin: {money//coin2} x {coin2}coin(s)")
     coinMore = coinMore + money
 
-    # coin1=impar coin2=impar
+# coin1=impar coin2=impar
 if  coin1 % 2 != 0 and coin2 % 2 != 0 and (money - coin2)%coin1 == 0:
     coin1Count = (money - coin2)//coin1
     coin2Count = coin2Count + 1
@@ -91,5 +91,5 @@ while coinMore != money and (money - coin2)%coin1 != 0 and (money - coin1)%coin2
         break
 
 if coin1Count*coin1 + coin2Count*coin2 == money:
-    print(f"Second coin: {coin1Count}x {coin1}coin(s)")
-    print(f"Second coin: {coin2Count}x {coin2}coin(s)")
+    print(f"Second coin: {coin1Count} x {coin1}coin(s)")
+    print(f"Second coin: {coin2Count} x {coin2}coin(s)")
