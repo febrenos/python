@@ -1,5 +1,4 @@
 # python
-<img style=" width:100px; height:100px; background-position:660px 46px; background-image: url(./Content/img/python.PNG);"/>
 Language for data Science
 https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html
 sen(cos((π))
