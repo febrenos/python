@@ -1,9 +1,8 @@
 # python
 <img src="./Content/img/pythonCut.PNG"/>
-Language for data Science
-https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html
-sen(cos((π))
-
+Language for data Science</br>
+https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html</br>
+https://www.ime.usp.br/~macmulti/</br>
 
 #### Code
 - intall Python
