@@ -102,3 +102,12 @@ arquivo.close()
  - hexadecimal
 
  - decimal
+ 
+ ##### FUNCTIONS
+```python
+def calc(a,b):
+  result = a + b
+  return result
+finalValue = calc(5,2)
+print(finalValue)
+```
