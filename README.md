@@ -111,3 +111,10 @@ def calc(a,b):
 finalValue = calc(5,2)
 print(finalValue)
 ```
+##### TUPLAS (jogo de baralho)
+##### LIST (jogo de domino)
+##### MATRIZES (processamento de imagens/ caca palavras)
+##### ALGORITIMOS DE BUSCA E ORDENACAO
+##### DICTIOARY
+##### PILHA E FILA(sudoku, problema do labirinto)
+##### RECURSAO(funcao que retorna outra funcao)
