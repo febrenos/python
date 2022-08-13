@@ -1,0 +1,19 @@
+import random
+quantityP = value = int(input("quantity pass:"))
+quantityC = value = int(input("quantity characters:"))
+
+lstC = ["A","a","B","b","C","c","D","d","E","e","F","f","G","g","H","h","I","i","J","j","K","k","L","l","M","m","N","n","O","o","P","p","Q","q","R","r","S","s","T","t","U","u","V","v","W","w","X","x","Y","y","Z","z","0","1","2","3","4","5","6","7","8","9"]
+lstPass = []
+contP = 0
+contC = 0
+while contP < quantityP:
+    c = ""
+    contC = 0
+    while contC < quantityC:
+        n = random.randint(0, len(lstC) - 1)
+        c = c + lstC[n]
+        contC += 1
+    if(c not in lstPass):
+        lstPass.append(c)
+        contP += 1
+print(lstPass)
