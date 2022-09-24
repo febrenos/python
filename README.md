@@ -108,8 +108,7 @@ arquivo.close()
 def calc(a,b):
   result = a + b
   return result
-finalValue = calc(5,2)
-print(finalValue)
+print(calc(5,2))
 ```
 
 ##### TUPLAS (jogo de baralho)
