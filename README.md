@@ -116,6 +116,7 @@ print(finalValue)
 ##### LIST (jogo de domino)
 ##### MATRIZES (processamento de imagens/ caca palavras)
 ##### ALGORITIMOS DE BUSCA E ORDENACAO
+##### ALGORITIMOS DE BUSCA EM LARGURA
 ##### DICTIOARY
 ##### PILHA E FILA(sudoku, problema do labirinto)
 ##### RECURSAO(funcao que retorna outra funcao)
