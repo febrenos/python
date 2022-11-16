@@ -1,0 +1,14 @@
+MEDIA REGISTRO DE ANO(S)
+0. {'mesAnoReferencia': '2021', 'totalHabitantes': 59000, 'totalObitos': 10000}
+1. {'mesAnoReferencia': '2020', 'totalHabitantes': 64500, 'totalObitos': 3000}
+2. {'mesAnoReferencia': '2019', 'totalHabitantes': 59500, 'totalObitos': 4100}
+REGISTRO DE MES(ES)
+0. {'mesAnoReferencia': '10-2021', 'totalHabitantes': 20000, 'totalObitos': 5000}
+1. {'mesAnoReferencia': '09-2021', 'totalHabitantes': 20000, 'totalObitos': 3000}
+2. {'mesAnoReferencia': '08-2021', 'totalHabitantes': 19000, 'totalObitos': 2000}
+3. {'mesAnoReferencia': '09-2019', 'totalHabitantes': 19000, 'totalObitos': 2000}
+4. {'mesAnoReferencia': '07-2019', 'totalHabitantes': 20000, 'totalObitos': 1000}
+5. {'mesAnoReferencia': '06-2019', 'totalHabitantes': 20500, 'totalObitos': 1100}
+6. {'mesAnoReferencia': '06-2020', 'totalHabitantes': 20000, 'totalObitos': 1100}
+7. {'mesAnoReferencia': '07-2020', 'totalHabitantes': 23000, 'totalObitos': 900}
+8. {'mesAnoReferencia': '08-2020', 'totalHabitantes': 21500, 'totalObitos': 1000}
