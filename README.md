@@ -115,6 +115,11 @@ print(calc(5,2))
 ##### LIST (jogo de domino)
 ##### MATRIZES (processamento de imagens/ caca palavras)
 ##### ALGORITIMOS DE BUSCA E ORDENACAO
+- Selection Sort
+- Insection Sort
+- Buble Sort
+- Merge Sort
+- Heap Sort
 ##### ALGORITIMOS DE BUSCA EM LARGURA
 ##### DICTIOARY
 ##### PILHA E FILA(sudoku, problema do labirinto)
